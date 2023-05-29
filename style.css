@@ -1,0 +1,12 @@
+*{
+    text-align: left;
+}
+
+.cabecalho {
+    background-color: #E9ECEF;
+    padding: 50px 50px;
+}
+
+#cont{
+    margin-top: 20px;
+}
